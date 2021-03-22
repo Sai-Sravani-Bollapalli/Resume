@@ -1,0 +1,151 @@
+.heading{
+    background-color: grey;
+    padding-top: 80px;
+    padding-bottom: 10px;
+    margin: 0;
+    
+}
+
+.my-img img{
+    border-radius: 50%;
+    padding-bottom: none;
+    margin-bottom: 0;
+    border: 5px dotted yellow;
+}
+
+.my-img{
+    text-align: center;
+    position: relative;
+    bottom: 35px;
+    
+}
+
+.bg{
+    background-color:rgb(228, 241, 228);
+    padding: 15px;
+    display: block;
+    position: relative;
+    bottom: 30px;
+    
+}
+
+.name h1{
+    border: 1px solid yellow;
+    display: inline;
+
+    font-size: 50px;
+    background-color: yellow;
+    border-radius: 10px;
+      
+}
+
+.name {
+    position: absolute;
+    top:250px;
+    left: 520px;
+
+
+}
+
+.address p{
+    border-bottom: 1px solid grey;
+    padding: 8px;
+    margin: 0;
+    text-align: center;
+    font-size: 25px;
+}
+
+.res-content {
+    display: flex;
+    padding: 25px 5px 10px 60PX;
+}
+
+.vertical-line{
+    border-left: 2px solid grey;
+    height: 780px;
+    position: absolute;
+    left: 50%;
+   
+    
+    top: 411px;
+}
+
+.left-content{
+    
+    width: 50%;
+}
+
+.right-content{
+    
+    width: 50%;
+}
+
+.res-content p{
+    margin: 0;
+    font-size: 20px;
+}
+
+.res-content h3{
+    margin: 0;
+    color: grey;
+    font-size: 28px;
+}
+
+.res-content .fa{
+    color: yellow;
+}
+
+.profile, .work {
+    width: 85%;
+    padding-bottom: 10px;
+}
+
+.skills{
+    width: 85%;
+    padding-bottom: 10px;
+}
+.skills h4{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+
+.skill{
+    display: flex;
+}
+
+.skill-name, .sliders{
+    width: 50%;
+}
+
+
+.slide {
+   
+   width: 250px;
+}
+
+.work-upt{
+    display: flex;
+}
+
+.work h4{
+    font-size: 21px;
+    padding: 0;
+    margin: 0;
+}
+
+.cnt ul{
+    
+    padding-top: 3.5px;
+    margin: 0;
+}
+.date{
+   text-align: end;
+}
+.date, .l-content {
+    width: 50%;
+}
+
+
+  
